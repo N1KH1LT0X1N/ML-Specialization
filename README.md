@@ -24,7 +24,7 @@ Each course consists of multiple modules with lectures, quizzes, assignments, an
 |------|-----------------------------------------------------------------------------------------|---------------|
 | 1    | Supervised Machine Learning: Regression and Classification                              | ✅ Completed    |
 | 2    | Advanced Learning Algorithms                                                            | ✅ Completed    |
-| 3    | Unsupervised Learning, Recommenders, Reinforcement Learning                             |    Pending      |
+| 3    | Unsupervised Learning, Recommenders, Reinforcement Learning                             |  ✅ Completed   |
 
 ## 📝 Repository Structure
 
